@@ -3,6 +3,33 @@
 **A unified, scalable platform for managing and routing messages across distributed services and human interfaces.**  
 Modular, policy-driven, and designed for modern cloud-native AI infrastructure.
 
+### Project Status 🚧
+
+* **Alpha**: This project is in active development and subject to rapid change. ⚠️
+* **Testing Phase**: Features are experimental; expect bugs, incomplete functionality, and breaking changes. 🧪
+* **Not Production-Ready**: We **do not recommend using this in production** (or relying on it) right now. ⛔
+* **Compatibility**: APIs, schemas, and configuration may change without notice. 🔄
+* **Feedback Welcome**: Early feedback helps us stabilize future releases. 💬
+
+---
+
+## 📚 Contents 
+
+* [Architecture](https://openmesh-internal.pages.dev/communication/architecture)
+* [Deployment](https://openmesh-internal.pages.dev/communication/deployment)
+* [Fanout](https://openmesh-internal.pages.dev/communication/fanout)
+* [Registry](https://openmesh-internal.pages.dev/communication/registry)
+* [Config](https://openmesh-internal.pages.dev/communication/config)
+* [Logging](https://openmesh-internal.pages.dev/communication/logging)
+* [Overview](https://openmesh-internal.pages.dev/communication/human-interface/architecture)
+* [Channels](https://openmesh-internal.pages.dev/communication/human-interface/channels)
+* [Chat Interface](https://openmesh-internal.pages.dev/communication/human-interface/chat)
+* [Client SDK](https://openmesh-internal.pages.dev/communication/human-interface/client.md)
+* [Sessions Management](https://openmesh-internal.pages.dev/communication/human-interface/sessions)
+* [Interrupts Database](https://openmesh-internal.pages.dev/interrupts/interrupts_db)
+* [Observe Trigger Library](https://openmesh-internal.pages.dev/interrupts/observe_trigger_lib)
+
+
 ---
 
 ## 🌟 Highlights
@@ -68,39 +95,20 @@ Modular, policy-driven, and designed for modern cloud-native AI infrastructure.
 
 ---
 
-## 🛠 Project Status
+## 📢 Communications
 
-🟢 **Actively Maintained and under development**  
-🔧 Modular, extensible design  
-🌐 Suitable for hybrid, multi-cluster, or federated setups  
-🤝 Community contributions welcome!
-
----
-
-## Links
-
-📚 Architecture [docs/architecture.md](./docs/architecture.md)  
-📦 Fanout Service source code [src/fanout](./src/fanout/)  
-💾 Message Logger Service source code [./src/message_logger](./src/message_logger/)  
-🗂️ Backbone Registry API source code [src/global_registry](./src/global_registry/)  
-🤖 Human Interface source code [src/human-interface](./src/human-intervention-system/)  
+1. 📧 Email: [community@opencyberspace.org](mailto:community@opencyberspace.org)  
+2. 💬 Discord: [OpenCyberspace](https://discord.gg/W24vZFNB)  
+3. 🐦 X (Twitter): [@opencyberspace](https://x.com/opencyberspace)
 
 ---
 
-## 📜 License
+## 🤝 Join Us!
 
-This project is released under the [Apache 2.0 License](./LICENSE).  
-Feel free to use, modify, and integrate it into your infrastructure.
+AIGrid is **community-driven**. Theory, Protocol, implementations - All contributions are welcome.
 
----
+### Get Involved
 
-## 🗣️ Get Involved
+- 💬 [Join our Discord](https://discord.gg/W24vZFNB)  
+- 📧 Email us: [community@opencyberspace.org](mailto:community@opencyberspace.org)
 
-We’re building an open, distributed foundation for AI and infrastructure automation.
-
-- 💬 Start a discussion
-- 🐛 Report a bug
-- ⭐ Star the repo if you find it useful
-- 🤝 Submit a pull request
-
-Let's build reproducible, reliable, and intelligent infrastructure together.
