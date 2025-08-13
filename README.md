@@ -43,13 +43,13 @@ Modular, policy-driven, and designed for modern cloud-native AI infrastructure.
 
 ## 🏗 Architecture Diagrams
 
-* 📡 [Communication Architecture](./images/communication.png)
-* ⚙ [Communication Configuration](./images/communication-config.png)
-* 🔀 [Communication Fanout](./images/communication-fanout.png)
-* 🗂 [Communication Logging / Queue](./images/communication-queue.png)
-* 🗄 [Communication Registry](./images/communication-registry.png)
-* 🧑‍💻 [Human Interface](./images/communication-human-interface.png)
-* 💬 [Chat System](./images/communication-chat.png)
+* 📡 [Communication Architecture](https://openmesh-internal.pages.dev/images/communication.png)
+* ⚙ [Communication Configuration](https://openmesh-internal.pages.dev/images/communication-config.png)
+* 🔀 [Communication Fanout](https://openmesh-internal.pages.dev/images/communication-fanout.png)
+* 🗂 [Communication Logging / Queue](https://openmesh-internal.pages.dev/images/communication-queue.png)
+* 🗄 [Communication Registry](https://openmesh-internal.pages.dev/images/communication-registry.png)
+* 🧑‍💻 [Human Interface](https://openmesh-internal.pages.dev/images/communication-human-interface.png)
+* 💬 [Chat System](https://openmesh-internal.pages.dev/images/communication-chat.png)
 
 ---
 
