@@ -32,6 +32,27 @@ Modular, policy-driven, and designed for modern cloud-native AI infrastructure.
 
 ---
 
+## 🔗 Links
+
+* 🌐 [Website](https://contracts-grid-internal.pages.dev/)
+* 📄 [Vision Paper](https://resources.aigr.id/)
+* 📚 [Documentation](https://openmesh-internal.pages.dev)
+* 💻 [GitHub](https://github.com/opencyber-space/OpenMe.sh)
+
+---
+
+## 🏗 Architecture Diagrams
+
+* 📡 [Communication Architecture](./images/communication.png)
+* ⚙ [Communication Configuration](./images/communication-config.png)
+* 🔀 [Communication Fanout](./images/communication-fanout.png)
+* 🗂 [Communication Logging / Queue](./images/communication-queue.png)
+* 🗄 [Communication Registry](./images/communication-registry.png)
+* 🧑‍💻 [Human Interface](./images/communication-human-interface.png)
+* 💬 [Chat System](./images/communication-chat.png)
+
+---
+
 ## 🌟 Highlights
 
 ### 🧱 Modular Communication Framework
@@ -105,7 +126,7 @@ Modular, policy-driven, and designed for modern cloud-native AI infrastructure.
 
 ## 🤝 Join Us!
 
-AIGrid is **community-driven**. Theory, Protocol, implementations - All contributions are welcome.
+This project is **community-driven**. Theory, Protocol, implementations - All contributions are welcome.
 
 ### Get Involved
 
