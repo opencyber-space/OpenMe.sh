@@ -8,7 +8,7 @@ OpenMesh is **operator-neutral**, **permissionless to join**, and **protocol-ext
 
 ---
 
-## Why OpenMesh?
+## ❓Why OpenMesh?
 
 In large-scale open MAS, **communication is the key substrate of intelligence**. Without expressive, reliable, and adaptive communication, agents remain isolated silos, unable to coordinate or form collective behaviors.  
 
@@ -24,7 +24,7 @@ Unlike centralized, ad hoc, or application-specific systems, OpenMesh **combines
 
 ---
 
-## Core Principles & Features
+## ⚙️ Core Principles & Features
 
 - **Federated, Operator-Neutral Backbone**  
   Independent relay and directory nodes interoperate via open protocols, preventing lock-in and ensuring resilience.
@@ -52,7 +52,7 @@ Unlike centralized, ad hoc, or application-specific systems, OpenMesh **combines
 
 ---
 
-## Communication Patterns
+## 📡 Communication Patterns
 
 OpenMesh supports **multi-pattern communication** suited to different tasks and trust contexts:
 
@@ -67,7 +67,7 @@ OpenMesh supports **multi-pattern communication** suited to different tasks and 
 
 ---
 
-## Semantic Layer & Schemas
+## 📜 Semantic Layer & Schemas
 
 OpenMesh ensures **meaning preservation** across heterogeneous agents through:
 
@@ -90,7 +90,7 @@ OpenMesh ensures **meaning preservation** across heterogeneous agents through:
   Schema-bound ACLs, protocol enforcement, and type-level controls the meaning and permissible use of messages based on their declared structure, type, and protocol context.
 ---
 
-## Signaling, Session Management & Routing
+## 📞 Signaling, Session Management & Routing
 
 Signaling is the bridge between semantic intent and active communication 
 
