@@ -1,5 +1,7 @@
 # 🌐 OpenMesh: Open Communication Mesh for AI
 
+[![Part of Ecosystem: AGI Grid](https://img.shields.io/badge/⚡️Part%20of%20Ecosystem-AGI%20Grid-0A84FF?style=for-the-badge)](https://www.AGIGr.id)
+
 **OpenMesh** is a **decentralized, federated communication mesh** for large-scale, open **multi-agent systems (MAS)** such as the **Internet of Agents (IoA)** and the **Society of Agents (SoA)**.  
 
 It provides **topic-routing, pub/sub eventing, per-agent inboxes, typed communication schemas, extensible communication protocols, membership and discovery, and a social-graph overlay** that supports higher-order interaction.  
